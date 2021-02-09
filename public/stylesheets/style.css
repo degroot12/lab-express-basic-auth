@@ -6,3 +6,34 @@ body {
 a {
   color: #00B7FF;
 }
+
+
+.private-btn{
+  text-decoration: none;
+  color: white;
+}
+
+.cat-btn {
+  margin-top: 10px;
+}
+
+.error {
+  background: #f02b63;
+  box-sizing: border-box;
+  color: #fff;
+  margin: 20px auto;
+  padding: 20px;
+  width: 100%;
+}
+
+.nav {
+  background-color: #131b69;
+}
+
+.nav-link {
+  color: white;
+}
+
+form {
+  margin-top: 10px;
+}
